@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+#Litex folder
+litex-inst/*
+
 # Object files
 *.o
 *.ko
